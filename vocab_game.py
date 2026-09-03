@@ -94,7 +94,7 @@ ans2 = st.text_input(
     key="input_ans2"
 )
 ans3 = st.text_input(
-    "ข้อ 3: This m _ _ go` is very sweet. 🥭",
+    "ข้อ 3: This `m _ _ go` is very sweet. 🥭",
     key="input_ans3"
 )
 ans4 = st.text_input(
